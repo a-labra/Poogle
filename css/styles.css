@@ -1,0 +1,250 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+header{
+	width: 100%;
+	height: 50px;
+}
+
+div.mex{
+
+	display: block;
+	border-bottom: 1px solid #d9d9d9;
+	border-top: 1px solid #d9d9d9;
+	width: 100%;
+	height: 50px;
+	background: #ededed
+}
+
+div.mex p{
+	
+	display: inline-block;
+	font-size: 14px;
+	margin-left: 10px;
+	color: #4d4d4d;
+}
+
+div.options{
+	
+	display: block;
+	width: 100%;
+	height: 50px;
+	background: #ededed
+}
+
+div.contentp{
+
+	width: 100%;
+	height: 620px;
+	background: white;
+}
+
+
+div.icons{
+
+	margin-top: 20px;
+	width: 100px;
+	display: inline-block;
+	float: right;
+
+}
+
+.icon1{
+	display: inline-block;
+	margin-right: 10px;
+	color: #2e2e2e;
+
+}
+
+.icon2{
+	display: inline-block;
+	margin-left: 10px;
+	
+}
+
+div.gmail{
+	
+	margin-top: 20px;
+	width: 70px;
+	display: inline-block;
+	float: right;
+	
+}
+
+.gmail a{
+
+	text-decoration: none;
+	color: #1a1a1a;
+	font-size: 13px;
+
+}
+
+.gmail a:hover{
+
+	text-decoration-line: underline;
+
+}
+
+div.images{
+
+	margin-top: 20px;
+	width: 70px;
+	display: inline-block;
+	float: right;
+	
+}
+
+.images a{
+
+	text-decoration: none;
+	color: #1a1a1a;
+	font-size: 13px;
+
+}
+
+
+.images a:hover{
+
+	text-decoration-line: underline;
+
+}
+
+
+div.logo{
+	
+	margin-top: 192px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 290px;
+
+}
+
+.logo img{
+	
+	margin: auto;
+	width: 100%;
+	height: 90px;
+}
+
+div.search{
+	
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 450px;
+
+}
+
+.search input{
+	width: 100%;
+	height: 40px;
+	border-radius: 20px;
+	border: 1px solid #d9d9d9;
+}
+
+.search i{
+	position: relative;
+}
+
+.right{
+
+	float: right;
+}
+
+
+.left{
+
+	float: left;
+	margin-left: 20px;
+}
+
+.right p{
+	
+	display: inline-block;
+	font-size: 13px;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: #4d4d4d;
+
+}
+
+.left p{
+	
+	display: inline-block;
+	font-size: 13px;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: #4d4d4d;
+
+}
+
+
+.bottons{
+
+	display: block;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 350px;
+
+}
+
+
+.searchGoogle{
+
+	float: left;
+	width: 45%;
+	height: 40px;
+	border: 0px solid #d9d9d9;
+	border-radius: 2px;
+	display: inline-block;
+	background: #e8e8e8;
+	color: #575757;
+	text-align: center;
+	font-size: 13px;
+
+}
+
+.lucky{
+	float: right;
+	width: 45%;
+	height: 40px;
+	border: 0px solid #d9d9d9;
+	border-radius: 2px;
+	display: inline-block;
+	background: #e8e8e8;
+	color: #575757;
+	text-align: center;
+	font-size: 13px;
+	
+}
+
+.fromGoogle{
+	
+	display: block;
+	margin-top: 90px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 320px;
+
+}
+
+.fromGoogle p{
+
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	font-size: 13px;
+	
+
+}
+
+
+
+
+
+
